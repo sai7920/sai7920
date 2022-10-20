@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Nath</h1>
 <h3 align="center">Aspiring full stack developer!</h3>
+<img src = "https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai7920&label=Profile%20views&color=0e75b6&style=flat" alt="sai7920" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai7920" alt="sai7920" /></a> </p>
-< img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fitsferdiardiansa%2Fitsferdiardiansa&psig=AOvVaw28QwyRYSS0TXgfcBpYUujq&ust=1666281754962000&source=images&cd=vfe&ved=2ahUKEwivkImy1ez6AhVMSGwGHXVYAg4QjRx6BAgAEAw"
+
 - 📫 How to reach me **sainathkuna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
